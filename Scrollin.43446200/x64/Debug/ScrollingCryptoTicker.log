@@ -1,0 +1,6 @@
+﻿  ScrollingCryptoTicker.cpp
+C:\Users\chron\source\repos\ScrollingCryptoTicker\ScrollingCryptoTicker.cpp(60,34): warning C4101: 'e': unreferenced local variable
+C:\Users\chron\source\repos\ScrollingCryptoTicker\ScrollingCryptoTicker.cpp(100,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chron\source\repos\ScrollingCryptoTicker\ScrollingCryptoTicker.cpp(148,85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chron\source\repos\ScrollingCryptoTicker\ScrollingCryptoTicker.cpp(220,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  ScrollingCryptoTicker.vcxproj -> C:\Users\chron\source\repos\ScrollingCryptoTicker\x64\Debug\ScrollingCryptoTicker.exe
